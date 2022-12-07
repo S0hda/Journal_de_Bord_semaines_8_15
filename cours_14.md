@@ -21,4 +21,13 @@ Décrivez quelles seront les technologies utilisées dans votre projet.
 On utiliserair Le unity engine pour créer l'environement et blender pour modeliser les personnages.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Auteurs de fictions multimédia
+Modélisateurs 3D
+Animateurs 2D-3D
+Concepteurs de jeux vidéo
+Designer de mondes virtuels
+Programmateurs de jeux vidéo
+Concepteurs sonore
+Chef de projet jeux vidéo
+Testeurs de jeux vidéo
+Directeur artistique et technique
